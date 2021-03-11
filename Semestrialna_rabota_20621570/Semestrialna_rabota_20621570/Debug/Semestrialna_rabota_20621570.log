@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\C++ projects\Semestrialna_rabota_20621570\Semestrialna_rabota_20621570\Source.cpp(784,45): warning C4244: 'argument': conversion from 'double' to 'std::streamsize', possible loss of data
+D:\C++ projects\Semestrialna_rabota_20621570\Semestrialna_rabota_20621570\Source.cpp(801,22): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Semestrialna_rabota_20621570.vcxproj -> D:\C++ projects\Semestrialna_rabota_20621570\Debug\Semestrialna_rabota_20621570.exe
